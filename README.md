@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
-<h3 align="center">A passionate junior frontend developer eager to learn more</h3>
+<h3 align="center">A passionate junior software developer eager to learn more</h3>
 
 - 🔭 I’m currently working on [Hike Finder](https://swisshikefinder.herokuapp.com/)
 
