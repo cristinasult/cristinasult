@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
-<h3 align="center">A passionate junior software developer eager to learn more</h3>
+<h3 align="center">A passionate junior web developer eager to learn more</h3>
 
 - 🔭 I’m currently working on [Hike Finder](https://swisshikefinder.herokuapp.com/)
 
-- 🌱 I’m currently learning **React, Ruby on Rails**
+- 🌱 I’m currently learning **React, Ruby on Rails, German**
 
 - 📫 How to reach me **cristinasult23@gmail.com**
 
-- ⚡ Fun fact **I went backpacking to South America for 9 months following the mountains.**
+- ⚡ Fun fact **I went backpacking to South America for 9 months.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
